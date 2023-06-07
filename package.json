@@ -1,5 +1,5 @@
 {
-  "name": "y-mongodb",
+  "name": "y-mongodb-optimized",
   "version": "0.1.11",
   "description": "Mongodb adapter for Yjs",
   "main": "./dist/y-mongodb.cjs",
